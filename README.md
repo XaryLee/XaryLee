@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm XaryLee 👋
 
-<!--
-**XaryLee/XaryLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a Ph.D. student at Zhejiang University, specializing in Music AI research. My work focuses on the intersection of artificial intelligence, deep learning, and music technology.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Music Information Retrieval (MIR)
+- Generative Models for Music Composition
+- Audio Signal Processing
+- Music Emotion Recognition
+- Human-Computer Interaction in Music Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, MATLAB, C++
+- **Libraries & Frameworks**: PyTorch, Librosa
+- **Music Technologies**: DAWs (FL Studio, Studio One), MIDI, Audio Processing
+
+## 🎵 Current Projects
+- Developing novel deep learning architectures for symbolic music generation
+- Exploring transformer-based models for cross-modal music understanding
+- Creating interactive AI systems for music composition assistance
+
+## 📚 Publications
+- [PrSpMV: An Efficient Predictable Kernel for SpMV](https://doi.org/10.1109/ICCD58817.2023.00075) (ICCD, 2023)
+- [MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music](https://doi.org/10.24963/ijcai.2024/860) (IJCAI, 2024)
+
+## 🌐 Connect With Me
+- [Google Scholar](https://scholar.google.com/citations?user=pMhdClkAAAAJ)
+- Email: your.email@zju.edu.cn
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XaryLee&show_icons=true&theme=radical)
+
+---
+
+⭐️ Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions about Music AI!
+
+
