@@ -26,7 +26,7 @@ I'm a Ph.D. student at Zhejiang University, specializing in Music AI research. M
 
 ## 🌐 Connect With Me
 - [Google Scholar](https://scholar.google.com/citations?user=pMhdClkAAAAJ)
-- Email: your.email@zju.edu.cn
+- Email: lsyxary@zju.edu.cn
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XaryLee&show_icons=true&theme=radical)
