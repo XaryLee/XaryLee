@@ -13,7 +13,7 @@ I'm a Ph.D. student at Zhejiang University, specializing in Music AI research. M
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, MATLAB, C++
 - **Libraries & Frameworks**: PyTorch, Librosa
-- **Music Technologies**: DAWs (FL Studio, Studio One), MIDI, Audio Processing
+- **Music Technologies**: DAWs (Studio One, Logic Pro), MIDI, Audio Processing
 
 ## 🎵 Current Projects
 - Developing novel deep learning architectures for symbolic music generation
