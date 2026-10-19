@@ -1,7 +1,7 @@
 # Hi there, I'm XaryLee 👋
 
 ## 🎓 About Me
-I'm a Ph.D. student at Zhejiang University, specializing in Music AI research. My work focuses on the intersection of artificial intelligence, deep learning, and music technology.
+I'm a Ph.D. candidate at Zhejiang University, specializing in Music AI research. My work focuses on the intersection of artificial intelligence, deep learning, and music technology.
 
 ## 🔬 Research Interests
 - Music Information Retrieval (MIR)
@@ -21,15 +21,16 @@ I'm a Ph.D. student at Zhejiang University, specializing in Music AI research. M
 - Creating interactive AI systems for music composition assistance
 
 ## 📚 Publications
-- [PrSpMV: An Efficient Predictable Kernel for SpMV](https://doi.org/10.1109/ICCD58817.2023.00075) (ICCD, 2023)
+- [A Survey on Music Generation from Single-Modal, Cross-Modal, and Multi-Modal Perspectives](https://doi.org/10.1145/3800682)
 - [MuChin: A Chinese Colloquial Description Benchmark for Evaluating Language Models in the Field of Music](https://doi.org/10.24963/ijcai.2024/860) (IJCAI, 2024)
+- [PrSpMV: An Efficient Predictable Kernel for SpMV](https://doi.org/10.1109/ICCD58817.2023.00075) (ICCD, 2023)
 
 ## 🌐 Connect With Me
 - [Google Scholar](https://scholar.google.com/citations?user=pMhdClkAAAAJ)
 - Email: lsyxary@zju.edu.cn
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XaryLee&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XaryLee&show_icons=true&theme=radical)
 
 ---
 
